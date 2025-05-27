@@ -1,3 +1,4 @@
+"use client";
 import dynamic from 'next/dynamic';
 import Section from '../components/Section'; // Assuming components are in ../components
 import Experience from '../components/Experience';
